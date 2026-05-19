@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-05-05T10:30:22.926830",
+  "source_file": "account_statement.pdf",
+  "strategy_used": "pdfplumber",
+  "pages_extracted": 4,
+  "tables_found": 4,
+  "chars_extracted": 5007,
+  "lines_extracted": 17,
+  "output_file": "data/raw_text.txt",
+  "quality_check": "passed"
+}
